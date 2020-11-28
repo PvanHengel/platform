@@ -32,3 +32,10 @@ Languages - While you can develop in just about any language and framework you w
   API - Python Flask, Java SpringBoot, NodeJS Express
   
   
+## Getting Started
+
+1. Download and install Docker Desktop on your Mac (https://desktop.docker.com/mac/stable/Docker.dmg)
+
+2. Beef up the memory & CPU access for docker (trust me you will need it)
+
+
